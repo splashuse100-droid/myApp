@@ -1,2 +1,1 @@
-# myApp
-myApp
+# Splash Screen Implemented
